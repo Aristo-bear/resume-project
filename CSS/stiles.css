@@ -1,3 +1,13 @@
 body { 
     background-color: #E5E5E5;
 }
+/* about me */
+.my-profesion {
+    padding-bottom: 180px;
+}
+h2 {
+    font-size: 35px;
+}
+.project-item {
+    background-color: yellow;
+}
