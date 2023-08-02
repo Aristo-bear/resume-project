@@ -1,6 +1,7 @@
 body { 
     background-color: #E5E5E5;
 }
+<<<<<<< HEAD
 /* about me */
 .my-profesion {
     padding-bottom: 180px;
@@ -10,4 +11,9 @@ h2 {
 }
 .project-item {
     background-color: yellow;
+=======
+h2 {
+    font-size: 35
+    ;
+>>>>>>> refs/remotes/origin/main
 }
