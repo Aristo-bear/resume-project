@@ -1,22 +1,30 @@
 body { 
+    font-family: 'Montserrat', sans-serif;
     background-color: #E5E5E5;
-<<<<<<< HEAD
+    padding: 40px;
+}
 
 h2 {
     font-size: 35px;
 } 
-.project-item
-
-=======
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #ffffff;  
+  width: 1200px;
+  margin: 0 auto;
 }
-<<<<<<< HEAD
+
+/* main-content */
+.main-content {
+padding: 88px;
+}
 /* about me */
 .my-profesion {
     padding-bottom: 180px;
 }
-h2 {
-    font-size: 35px;
-}
+
 .project-item {
     background-color: yellow;
 >>>>>>> refs/remotes/origin/main
+}
