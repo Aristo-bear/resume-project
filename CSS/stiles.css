@@ -1,8 +1,22 @@
 body { 
     background-color: #E5E5E5;
+<<<<<<< HEAD
 
 h2 {
     font-size: 35px;
 } 
 .project-item
 
+=======
+}
+<<<<<<< HEAD
+/* about me */
+.my-profesion {
+    padding-bottom: 180px;
+}
+h2 {
+    font-size: 35px;
+}
+.project-item {
+    background-color: yellow;
+>>>>>>> refs/remotes/origin/main
